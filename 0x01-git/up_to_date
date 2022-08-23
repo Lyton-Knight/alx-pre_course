@@ -1,0 +1,1 @@
+The command used to get all changes in the main to the local branch is git pull origin main
